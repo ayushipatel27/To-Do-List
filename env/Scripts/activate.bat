@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=C:\Users\Ayushi\Desktop\CSCOUR~1\Projects\SIDEPR~1\apps\todolist\env"
+set "VIRTUAL_ENV=C:\Users\Ayushi\Desktop\Projects\SideProjects\apps\todolist\env"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
